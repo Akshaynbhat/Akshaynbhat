@@ -103,28 +103,11 @@ Normalized (3NF) PostgreSQL schema with stored procedures, triggers, and role-ba
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshaynbhat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaynbhat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaynbhat&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaynbhat&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshaynbhat/Akshaynbhat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshaynbhat/Akshaynbhat/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Akshaynbhat/Akshaynbhat/output/github-snake.svg" />
-</picture>
 </div>
 
 ---
