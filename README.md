@@ -49,8 +49,8 @@ B.E. Information Science & Engineering, BNM Institute of Technology, Bangalore
 
 ---
 
-### 📌 Featured Projects
-
+### 📌 Few Featured Projects
+A few projects I'm most proud of — check my repos for more.
 <div align="center">
 <table>
 <tr>
