@@ -100,13 +100,6 @@ Normalized (3NF) PostgreSQL schema with stored procedures, triggers, and role-ba
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshaynbhat&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</div>
-
----
 
 <div align="center">
 <sub>⭐️ From <a href="https://github.com/Akshaynbhat">Akshaynbhat</a> — thanks for stopping by!</sub>
